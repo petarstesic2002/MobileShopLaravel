@@ -1,0 +1,1 @@
+<li class="pageBtn{{$class}}" data-id="{{$num}}">{{$num}}</li>
